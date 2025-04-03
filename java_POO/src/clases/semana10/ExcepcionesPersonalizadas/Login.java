@@ -1,7 +1,6 @@
 package clases.semana10.ExcepcionesPersonalizadas;
 
 import java.util.HashMap;
-import java.util.Map;
 import java.util.Scanner;
 
 /* enere una aplicación de login, donde se pida al usuario crear su login y contraseña.
